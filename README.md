@@ -1,5 +1,5 @@
 # Python-Projects
 
-Skills like Data Exploration, Data Wrangling, Visualisations and Prediction Models, and Machine learning are explored through the above projects.
+Skills like Data Cleaning, Data Exploration, Data Wrangling, Visualisations, Prediction Models, and Machine learning are explored through the above projects.
 
 
